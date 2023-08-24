@@ -4,7 +4,7 @@ $("#sign-up-btn").click(function() {
   $("#log-in-form").hide();
   $("#payments-form").hide();
   $("#approve-form").hide();
-  $("#finance-form").hide();
+  $("#finance-form").hide();xcvxcvsd
  
   $("#sign-up-btn").addClass("active");
   $("#log-in-btn").removeClass("active");
